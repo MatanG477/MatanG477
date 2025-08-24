@@ -50,70 +50,13 @@ Rising third‑year CS student (starting Oct 2025) focused on backend & systems.
 ---
 
 ## What I'm learning next
-- Concurrency patterns in modern C++ (threads, mutex/condvar)
-- Networking basics (client‑server, sockets)
-- CI with GitHub Actions for C++ projects
-
+- Product Management
+- Cloud‑native app development with Kubernetes
+- Intro to Cybersecurity / Big Data
+- C# and .NET
+  
 ---
 
 ## How to reach me
 - LinkedIn: [@matan-gurfinkel-1880b9211](https://www.linkedin.com/in/matan-gurfinkel-1880b9211)
-- Email: `your.email@example.com` (replace!)
-
----
-
-## Bonus: README template for your repos (copy into each project)
-
-```markdown
-# <Project Name>
-
-One‑line project description.
-
-## ✨ Features
-- Bullet point highlights
-- What makes it interesting
-
-## 🧰 Tech Stack
-- Language / Frameworks / Tools
-
-## 🚀 Quick Start
-```bash
-# build/run example (C++)
-mkdir -p build && cd build
-cmake .. && cmake --build .
-./<binary>
-```
-
-## 📸 Screenshots
-<!-- add 1–2 images or GIFs (./docs/ folder) -->
-
-## 🧪 Tests
-```bash
-ctest --output-on-failure
-```
-
-## 📦 Project Structure
-```
-.
-├─ src/
-├─ include/
-├─ tests/
-├─ CMakeLists.txt
-└─ README.md
-```
-
-## 🗺️ Roadmap
-- [ ] Next small improvement
-- [ ] Stretch goal
-
-## 📄 License
-MIT
-```
-
----
-
-### Setup notes (for you)
-- Replace the email with your real address.
-- Add/replace projects in **Featured Projects** as you create more.
-- Consider adding a small **banner image** at the top (1200×300).
-
+- Email: `matan268@gmail.com` 
