@@ -52,7 +52,7 @@ Rising third‑year CS student (starting Oct 2025) focused on backend & systems.
 ## What I'm learning next
 - Product Management
 - Cloud‑native app development with Kubernetes
-- Intro to Cybersecurity / Big Data
+- Intro to DevOps
 - C# and .NET
   
 ---
