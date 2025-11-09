@@ -10,17 +10,18 @@ Third‑year CS student (starting Oct 2025) focused on backend & systems. I enjo
 ---
 
 ## About me
-- 🧭 CS student @ The Academic College of Tel‑Aviv–Yaffo.
-- 🧠 Interests: **C/C++**, **Linux**, **systems programming**, **concurrency**, **client‑server & networking**.
-- 🛠️ Hands‑on with: Docker, Bash, IPC (pipes), threads, mutex/condvar.
-- 🎖️ Background: IAF Aerial Imagery Analyst — led projects, trained 100+ analysts; two excellence awards.
-- 📌 Open to: **internships** and **open‑source contributions**.
+- 🎓 CS student @ The Academic College of Tel-Aviv–Yaffo  
+- 💡 Interests: **Backend Engineering**, **Systems Programming**, **Concurrency**, **Microservices**, **Event-Driven Architectures**
+- 🧩 Experienced with: **Spring Boot**, **Kafka**, **Redis**, **Cassandra**, **MongoDB**, **PostgreSQL**, **Docker**, **WebFlux**, **Regex**, **C/C++**
+- 🧠 Strong focus on scalable data pipelines, clean architecture, and problem-solving
+- 🎖️ Background: Former IAF Aerial Imagery Analyst – led data-driven initiatives, trained 100+ analysts, and received two excellence awards  
+- 🌍 Open to **internships** and **open-source contributions**
 
 ---
 
 ## Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,docker,bash,git,github&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,linux,docker,redis,postgresql,mongodb,kafka,git,github,c,cpp,bash&perline=9)](https://skillicons.dev)
 
 ---
 
