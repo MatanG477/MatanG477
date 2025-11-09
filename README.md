@@ -1,6 +1,6 @@
 # Hey, I'm Matan Gurfinkel 👋
 
-Rising third‑year CS student (starting Oct 2025) focused on backend & systems. I enjoy building low‑level, reliable software and understanding how things work under the hood.
+Third‑year CS student (starting Oct 2025) focused on backend & systems. I enjoy building low‑level, reliable software and understanding how things work under the hood.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/matan-gurfinkel-1880b9211)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-lightgrey?logo=vercel)](#)
