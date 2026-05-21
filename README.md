@@ -1,63 +1,71 @@
+<div align="center">
+
 # Hey, I'm Matan Gurfinkel 👋
 
-Third‑year CS student (starting Oct 2025) focused on backend & systems. I enjoy building low‑level, reliable software and understanding how things work under the hood.
+**Network & Cloud Operations Engineer @ Align Technology · CS Student · Backend & Systems Builder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/matan-gurfinkel-1880b9211)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-lightgrey?logo=vercel)](#)
-[![Email](https://img.shields.io/badge/Email-Open_to_contact-informational?logo=gmail)](mailto:your.email@example.com)
-[![Visitors](https://komarev.com/ghpvc/?username=MatanG477&label=Profile%20views&abbreviated=true)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matan-gurfinkel-1880b9211)
+[![Email](https://img.shields.io/badge/Email-matan268@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matan268@gmail.com)
+[![Visitors](https://komarev.com/ghpvc/?username=MatanG477&style=for-the-badge&color=2E75B6&label=PROFILE+VIEWS)](#)
 
----
-
-## About me
-- 🎓 CS student @ The Academic College of Tel-Aviv–Yaffo  
-- 💡 Interests: **Backend Engineering**, **Systems Programming**, **Concurrency**, **Microservices**, **Event-Driven Architectures**
-- 🧩 Experienced with: **Spring Boot**, **Kafka**, **Redis**, **Cassandra**, **MongoDB**, **PostgreSQL**, **Docker**, **WebFlux**, **Regex**, **C/C++**
-- 🧠 Strong focus on scalable data pipelines, clean architecture, and problem-solving
-- 🎖️ Background: Former IAF Aerial Imagery Analyst – led data-driven initiatives, trained 100+ analysts, and received two excellence awards  
-- 🌍 Open to **internships** and **open-source contributions**
+</div>
 
 ---
 
-## Toolbox
+## About Me
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,linux,docker,redis,postgresql,mongodb,kafka,git,github,c,cpp,bash&perline=9)](https://skillicons.dev)
+- 💼 **Network & Cloud Operations Engineer** @ [Align Technology](https://www.aligntech.com) — monitoring production systems, incident response, and live deployments
+- 🎓 **CS Student** @ The Academic College of Tel Aviv–Yaffo (graduating 2025)
+- 🏗️ Passionate about **backend engineering**, **distributed systems**, and building things that are reliable at scale
+- 🎖️ Former **IAF Aerial Imagery Analyst** — led data-driven projects, trained 100+ analysts, two excellence awards
+- 🌍 Open to **junior backend / backend-adjacent** roles
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,c,cpp,linux,docker,kubernetes,kafka,redis,mongodb,cassandra,postgresql,elasticsearch,git,bash&perline=8)](https://skillicons.dev)
+
+</div>
 
 ---
 
 ## Featured Projects
 
-> Pin these on your profile (Customize profile → Pinned repositories)
-
-| Project | Stack | What it is | Links |
-|---|---|---|---|
-| **DonkeyKong** | C++/OOP (fork) | Donkey Kong remake — game loop, input & real‑time collisions, states & scoring | [Repo](https://github.com/MatanG477/DonkeyKong) |
-| **Crypto‑BlockChain‑LinuxExercise** | C++/Linux, Docker, Bash | CLI blockchain simulator — parallel mining (std::thread), IPC via FIFOs, single launcher | [Repo](https://github.com/MatanG477/Crypto-BlockChain-LinuxExercise) | Academic exercise demonstrating basic blockchain primitives & CLI | [Repo](https://github.com/MatanG477/BlockChain-LinuxExercise) |
-
-> Tip: add a short GIF/screenshot to each repo and a clear **README** (see template below).
+| Project | Stack | Description |
+|---|---|---|
+| 🔗 **[TinyURL](https://github.com/MatanG477/TinyURL)** | Spring Boot · MongoDB · Cassandra · Redis · Docker | URL shortener microservice with click tracking & analytics. Multi-DB architecture: MongoDB for users, Cassandra for events, Redis for cache. **[▶ Live Demo](https://matang-tinyurl.runmydocker-app.com/swagger-ui.html)** |
+| ☸️ **[Kubernetes To-Do List](https://github.com/MatanG477/Kubernetes-Todo)** | K8s · Helm · Kustomize · Traefik · Vue.js · MySQL | Full-stack app deployed on Kubernetes with GitOps pipeline, Kustomize overlays, Helm charts, Network Policies & health probes |
+| 🔍 **[Search Engine](https://github.com/MatanG477/SearchEngine)** | Spring Boot · Kafka · Elasticsearch · Redis | Distributed crawler + indexer. Kafka producer/consumer pipeline, Elasticsearch indexing, Redis for state. **[▶ Live Demo](https://matang-searchengine.runmydocker-app.com/swagger-ui/index.html)** |
+| 🎓 **[AccessibleAcademic](https://github.com/MatanG477/AccessibleAcademic)** | Python · RAG · LLMs | AI platform that indexes & summarizes educational content. Automated transcript refinement and study tool generation via RAG |
+| 🎮 **[Donkey Kong (C++)](https://github.com/MatanG477/DonkeyKong)** | C++ · OOP | Classic arcade remake — real-time collision detection, scoring, level progression. **[▶ Video 1](https://www.youtube.com/watch?v=amnRaPkGpjM)** · **[▶ Video 2](https://www.youtube.com/watch?v=-uF1vs-arv8)** |
+| ⛓️ **[Blockchain Simulator](https://github.com/MatanG477/Crypto-BlockChain-LinuxExercise)** | C++ · Multithreading · Docker · Linux | CLI blockchain for Linux — parallel mining via `std::thread`, mutex/condition variables, IPC with FIFOs, Docker deployment |
 
 ---
 
 ## GitHub Stats
 
-> These images are auto‑generated and update daily.
+<div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MatanG477&show_icons=true&hide_title=true)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=MatanG477&show_icons=true&hide_title=true&theme=default&hide_border=true)
 ![Streak](https://streak-stats.demolab.com?user=MatanG477&mode=weekly&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatanG477&layout=compact&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatanG477&layout=compact)
+</div>
 
 ---
 
-## What I'm learning next
-- Product Management
-- Cloud‑native app development with Kubernetes
-- Intro to DevOps
-- C# and .NET
-  
+## Currently Exploring
+
+- ☁️ **Cloud-native** patterns & AWS deeper dive
+- 🔐 **Security & JWT** in distributed systems
+- 📐 **System Design** — scalability, reliability, real-world architecture
+
 ---
 
-## How to reach me
-- LinkedIn: [@matan-gurfinkel-1880b9211](https://www.linkedin.com/in/matan-gurfinkel-1880b9211)
-- Email: `matan268@gmail.com` 
+## Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/matan-gurfinkel-1880b9211)
+- 📧 matan268@gmail.com
