@@ -2,7 +2,7 @@
 
 # Hey, I'm Matan Gurfinkel 👋
 
-**Network & Cloud Operations Engineer @ Align Technology · CS Student · Backend & Systems Builder**
+**Network & Cloud Operations Engineer @ Align Technology · Backend & Systems Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matan-gurfinkel-1880b9211)
 [![Email](https://img.shields.io/badge/Email-matan268@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matan268@gmail.com)
@@ -15,7 +15,6 @@
 ## About Me
 
 - 💼 **Network & Cloud Operations Engineer** @ [Align Technology](https://www.aligntech.com) — monitoring production systems, incident response, and live deployments
-- 🎓 **CS Student** @ The Academic College of Tel Aviv–Yaffo (graduating 2025)
 - 🏗️ Passionate about **backend engineering**, **distributed systems**, and building things that are reliable at scale
 - 🎖️ Former **IAF Aerial Imagery Analyst** — led data-driven projects, trained 100+ analysts, two excellence awards
 - 🌍 Open to **junior backend / backend-adjacent** roles
